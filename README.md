@@ -4,8 +4,8 @@ What is this?
 ---
 > A configurable IoT launchpad
 
-![](20191110_084536_20.jpg)
-![](node-red-example.png)
+![](docs/20191110_084536_20.jpg)
+![](docs/node-red-example.png)
 
 Getting Started
 ---
@@ -164,11 +164,11 @@ Costs
 (This could be way cheaper)
 
 | Name  | Price  | Link  |
-|---|---|---|---|---|
-| Huzzah Feather ESP32  | $19.95  | https://www.adafruit.com/product/3405
-| Neotrellis PCB  | $12.50  | https://www.adafruit.com/product/3954
-| Silicone Keypads  | $4.95  | https://www.adafruit.com/product/1611
-| 2500mAh Battery  | $14.95  | https://www.adafruit.com/product/328 
+|---|---|---|
+| Huzzah Feather ESP32  | $19.95  | https://www.adafruit.com/product/3405 |
+| Neotrellis PCB  | $12.50  | https://www.adafruit.com/product/3954 |
+| Silicone Keypads  | $4.95  | https://www.adafruit.com/product/1611 |
+| 2500mAh Battery  | $14.95  | https://www.adafruit.com/product/328  |
 
 **Total**: $52.35
 
