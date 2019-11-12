@@ -12,7 +12,7 @@ Getting Started
 Rename `src/secrets.example.h` to `src/secrets.h`
 
 Fill in the values for your wifi and PubNub keys
-
+  
 Build and copy to your device
 
 The below Node Red example can be ran to see your values come through
