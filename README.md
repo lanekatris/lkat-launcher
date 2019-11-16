@@ -198,7 +198,7 @@ Hardware Features
 
 Improvements
 ---
-* Play mode
+* Play mode (push whatever buttons you want without publishing to the cloud)
 * Fairly accurate estimation of battery expectancy
 * Publish battery voltage (possible low battery warning)
 * Really nice enclosure: https://www.adafruit.com/product/4339 or 3D print or make one from wood
